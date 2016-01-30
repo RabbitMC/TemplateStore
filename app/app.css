@@ -29,6 +29,10 @@
   padding: 0;
 }
 
+.img-full {
+    width: 100%;
+}
+
 .templates {
   text-align: center;
 }
@@ -41,4 +45,8 @@
   width: 70%;
   text-align: center;
   margin: auto;
+}
+
+.templates .col-md-4 {
+  margin-bottom: 20px;
 }
